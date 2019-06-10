@@ -1,3 +1,5 @@
+.  # setup.py deps...
+
 bpython==0.18
 
 # Testing
