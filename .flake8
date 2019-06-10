@@ -1,0 +1,19 @@
+[flake8]
+# General
+max-line-length = 120
+exclude = migrations, venv
+ignore =
+    # N803: Argument name should be lowercase
+    N803,
+    # F405: Undefined, or defined by star imports
+    # We already get notified of star imports with F403.
+    F405
+
+# Quotes
+inline-quotes = single
+multiline-quotes = single
+docstring-quotes = single
+
+# Imports
+import-order-style = google
+application-import-names = contracts, tests
