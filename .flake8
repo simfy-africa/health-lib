@@ -16,4 +16,4 @@ docstring-quotes = single
 
 # Imports
 import-order-style = google
-application-import-names = contracts, tests
+application-import-names = health, tests
