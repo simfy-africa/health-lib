@@ -8,6 +8,6 @@ setup(
     author='Simfy Africa',
     author_email='info@simfyafrica.com',
     packages=find_packages(),
-    install_requires=['flask'],
+    install_requires=['flask>=1.0.3'],
     zip_safe=False
 )
