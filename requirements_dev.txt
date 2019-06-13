@@ -6,7 +6,6 @@ bpython==0.18
 codecov==2.0.15
 coverage==4.5.3
 pytest==4.6.2
-pytest-flask==0.15.0
 
 # Static Analysis
 flake8==3.7.7
