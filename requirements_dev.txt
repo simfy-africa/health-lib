@@ -19,4 +19,4 @@ flake8-quotes==2.1.0
 pep8-naming==0.8.2
 
 # Security Checks
-bandit==1.6.0
+bandit==1.6.2
