@@ -4,7 +4,7 @@ bpython==0.18
 
 # Testing
 codecov==2.0.15
-coverage==4.5.4
+coverage==5.0.3
 pytest==5.3.2
 
 # Static Analysis
